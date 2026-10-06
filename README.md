@@ -1,44 +1,21 @@
-# Hi there, I'm Samuel Kameta! 👋
+# Kameta Oghenetega Samuel
 
-### Fullstack Developer | Data Scientist | Lifelong Learner
+Graduate researcher at [DRAKA Labs](https://drakalabs.com/people/graduate-researchers/kameta-oghenetega-samuel), University of Ghana · MSc Data Science · BSc Computer Science (First Class)
 
-Welcome to my corner of the internet! I'm passionate about building innovative solutions and extracting meaningful insights from data. My journey in technology is driven by a deep curiosity and a commitment to continuous growth, always striving to bridge the gap from foundational concepts to professional mastery.
+I build software and study how AI handles the way people in West Africa actually talk about their health.
 
----
+### Research
+- **Clinical NLP on patient-written text:** evaluating how biomedical named entity recognition models handle lay, code-switched (English–Nigerian Pidgin) symptom descriptions, and where they fail.
+- **MSc thesis:** urban traffic congestion across Accra corridors.
 
-### 🚀 What I'm Currently Up To:
+### Building
+- **TastyHabit:** an AI meal-tracking app, built and piloted with real users.
+- **Smart POS:** business management software for merchants in Ghana and Nigeria.
 
--   **🎯 100 Days of Code (Python):** Currently immersed in the #100DaysOfCode Python challenge, dedicating myself to sharpening my Python skills from the basics to an advanced, professional level. Follow my progress and learnings right here on GitHub and www.linkedin.com/in/samuel-kameta-446a94390.
--   **🎓 Master of Science in Data Science:** Pursuing my MSc at the University of Ghana, focusing on machine learning, statistics, social network analysis, and big data technologies.
--   **💻 Certificate in Fullstack Development:** Enhancing my web development proficiency at Openlabs, with a strong focus on modern frameworks and scalable application design (HTML, CSS, JavaScript, Python, Django, Angular, and SQL).
+### Tools
+Python · pandas · scikit-learn · Hugging Face · SQL · Django · JavaScript · Angular · Git
 
----
+### Also
+Mentor to eight undergraduate Computer Science and IT students at the University of Ghana (weekly meetings, project guidance, code review).
 
-### ✨ My Toolkit & Interests:
-
-**Languages:** Python, JavaScript, HTML5, CSS
-**Frameworks/Libraries:** Django, Angular, Pandas, NumPy, Scikit-learn
-**Databases:** SQL
-**Tools & Methodologies:** Git, Agile, Data Analysis, Machine Learning, Web Development, Object-Oriented Programming (OOP)
-
-I'm particularly interested in:
--   Developing responsive and user-focused web applications.
--   Applying machine learning to real-world problems.
--   Exploring data visualization and effective storytelling with data.
--   The intersection of technology and innovative problem-solving.
-
----
-
-### 🌱 My Learning Philosophy:
-
-I believe in learning by doing, sharing knowledge, and constantly challenging myself. Whether it's dissecting complex algorithms or architecting scalable applications, I approach every task with a problem-solving mindset and an eagerness to learn from every experience.
-
----
-
-### 🤝 Let's Connect!
-
-I'm always open to collaborating on interesting projects, sharing insights, or discussing the latest in tech.
-
--   **LinkedIn:** www.linkedin.com/in/samuel-kameta-446a94390
-
-Thanks for stopping by!
+[Homepage](https://drakalabs.com/people/graduate-researchers/kameta-oghenetega-samuel) · [LinkedIn](https://www.linkedin.com/in/samuelkameta/)
